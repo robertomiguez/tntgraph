@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pages regression test 1`] = `
+<div
+  id="main"
+>
+  <ul>
+    <li>
+      <card-stub
+        description="This is a scary statistics but sadly a true one"
+        img=""
+        title="Homicides in Brazil"
+        to="Homicides"
+      />
+    </li>
+    <li>
+      <card-stub
+        description="Numbers of Covid 19 in United States"
+        img=""
+        title="Covid 19 - United States"
+        to="Covid19"
+      />
+    </li>
+    <li>
+      <card-stub
+        description="this is an example..."
+        img=""
+        title="Example"
+        to="Pages"
+      />
+    </li>
+    <li>
+      <card-stub
+        description="this is an example..."
+        img=""
+        title="Example"
+        to="Pages"
+      />
+    </li>
+    <li>
+      <card-stub
+        description="this is an example..."
+        img=""
+        title="Example"
+        to="Pages"
+      />
+    </li>
+    <li>
+      <card-stub
+        description="this is an example..."
+        img=""
+        title="Example"
+        to="Pages"
+      />
+    </li>
+    <li>
+      <card-stub
+        description="this is an example..."
+        img=""
+        title="Example"
+        to="Pages"
+      />
+    </li>
+  </ul>
+</div>
+`;
